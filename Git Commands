@@ -29,3 +29,6 @@ To clear Terminal
 To check branch name
 => git branch
 
+To restore back our changes
+=> git restore style.css
+
