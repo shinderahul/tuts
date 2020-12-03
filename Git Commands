@@ -25,3 +25,7 @@ To push code
 
 To clear Terminal
 => cls
+
+To check branch name
+=> git branch
+
