@@ -1,0 +1,27 @@
+Git Commands
+
+Clone/Download project
+=> git clone https://github.com/shinderahul/tuts.git
+
+To check repo status
+=> git status
+
+To Tracked/Add a single file
+=> git add README.md
+
+OR
+
+To Tracked/Add all files
+=> git add .
+
+To unstage file to untrack
+=> git rm --cached README.md
+
+To commit file
+=> git commit -m "Added style to header"
+
+To push code
+=> git push
+
+To clear Terminal
+=> cls
