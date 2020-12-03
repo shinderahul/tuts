@@ -32,3 +32,8 @@ To check branch name
 To restore back our changes
 => git restore style.css
 
+To create new branch 
+=> git checkout -b "develop"
+
+To switch branch
+=> git checkout master
