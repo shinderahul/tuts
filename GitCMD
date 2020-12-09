@@ -37,3 +37,20 @@ To create new branch
 
 To switch branch
 => git checkout master
+
+To unsave in branch
+=> git stash
+
+
+
+
+
+
+Regular usage
+git branch
+git status
+git add (fileName)
+git status
+git commit -m "Comment will come here"
+git status
+git push
